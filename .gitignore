@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Local state: personal settings (IP, user, folder) and the protocol debug log
+settings.json
+dvr_debug.log
+
+# Downloaded footage, if the output folder is set inside the repo
+DVR/
+*.part
+*.tmp.mp4
+*.h264
+*.mp4

@@ -1,0 +1,6 @@
+* text=auto
+*.py text eol=lf
+*.pyw text eol=lf
+*.md text eol=lf
+# cmd.exe needs CRLF line endings in batch files
+*.bat text eol=crlf
